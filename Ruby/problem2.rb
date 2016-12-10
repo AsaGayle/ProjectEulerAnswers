@@ -3,7 +3,6 @@ def problem2(max)
   fib_num = 0
   one_back = 1
   two_back = 1
-  hold = 0
 
   def sum_array(array)
     i = 0
